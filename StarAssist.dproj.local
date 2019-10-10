@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.238,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.949,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.259,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.200,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.561,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.520,=C:\Project\StarcraftAssist\VirtualKey\CCR.VirtualKeying.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.653,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Project\StarcraftAssist\fmMain_.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.964,=C:\Project\StarcraftAssist\SystemShortcut.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.447,=C:\Project\StarcraftAssist\VirtualKey\CCR.VirtualKeying.Consts.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.187,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.552,=C:\Project\StarcraftAssist\VirtualKey\CCR.VirtualKeying.Win.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.210,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Project\StarcraftAssist\StarAssist.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.585,=C:\Project\StarcraftAssist\Observer.HandleComponent.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.480,=C:\Project\StarcraftAssist\VirtualKey\CCR.VirtualKeying.Mac.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.653,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Project\StarcraftAssist\fmMain_.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.777,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.884,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.763,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.761,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
